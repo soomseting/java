@@ -1,0 +1,11 @@
+package api.io.stream;
+
+import java.io.*;
+import java.util.*;
+
+public class OutputStreamEx {
+	public static void main(String[] args) {
+		String path ="C:\\Users\\user\\Desktop\\course\\java\\file";
+		FileOutputStream fos = new FileOutputStream(경로);
+	}
+}

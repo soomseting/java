@@ -1,0 +1,10 @@
+package api.lang.wrapper;
+
+public class Boxing {
+	public static void main(String[] args) {
+		
+		//기본타입의 객체형 wrapper클래스 라고 합니다.
+		
+		//boxing - 기본형 => 클래스형 을 형변환
+	}
+}

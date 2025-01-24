@@ -1,0 +1,26 @@
+package api.io.stream;
+
+import java.io.*;
+
+public class FileCopyEx {
+	public static void main(String[] args) {
+		
+		InputStream fis = null;
+		OutputStream fos = null;
+		
+		String inputPath = "C:\\Users\\user\\Desktop\\course\\java\\file\\copy.png";
+		String OutputPath = "C:\\Users\\user\\Desktop\\course\\java\\filecopy\\copy.png";
+		try {
+			fis = new FileInputStream(null);
+			fos = new FileOutputStream(null);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}finally {
+			try {
+				
+			} catch (Exception e2) {
+				// TODO: handle exception
+			}
+		}
+	}
+}

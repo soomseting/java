@@ -1,0 +1,10 @@
+package quiz20;
+
+public class User<User> {
+	private String name;
+	private int age;
+
+	public User() {
+		
+	}
+}

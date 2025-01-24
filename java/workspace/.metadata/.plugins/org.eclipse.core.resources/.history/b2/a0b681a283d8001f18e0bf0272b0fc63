@@ -1,0 +1,13 @@
+package quiz20;
+
+public class Customer {
+	private String name;
+	private int arrivalTime;
+	
+	public Customer() {
+		
+	}
+	public Customer(String name, int arrivalTime) {
+		this.name = name;
+	}
+}

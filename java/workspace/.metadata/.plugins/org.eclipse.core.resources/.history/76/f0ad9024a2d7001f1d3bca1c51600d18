@@ -1,0 +1,14 @@
+package api.util.date;
+
+import java.util.Calendar;
+
+public class CalendarEx {
+	public static void main(String[] args) {
+
+		//
+		Calendar cal = Calendar.getInstance();
+//		System.out.println(cal);
+		
+		int year = cal.get(Calendar.YEAR);
+	}
+}

@@ -1,0 +1,7 @@
+package quiz20;
+
+public class SetQuiz01 {
+	public static void main(String[] args) {
+		
+	}
+}

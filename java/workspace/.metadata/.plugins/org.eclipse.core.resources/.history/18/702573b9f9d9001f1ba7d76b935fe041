@@ -1,0 +1,10 @@
+package api.buffered;
+
+import java.util.*;
+import java.io.*;
+
+public class BufferedReaderEx {
+	public static void main(String[] args) {
+		
+	}
+}

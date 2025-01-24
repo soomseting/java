@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="true"/>
+		<list key="findhistory">
+			<item value="E"/>
+			<item value="!="/>
+			<item value="arr"/>
+			<item value="var"/>
+			<item value="iii"/>
+			<item value="strr"/>
+			<item value="aa"/>
+			<item value="arr2"/>
+		</list>
+		<list key="replacehistory">
+			<item value="=="/>
+			<item value="answer"/>
+			<item value="v"/>
+			<item value="i3"/>
+			<item value="str3"/>
+			<item value="a3"/>
+			<item value="newArr"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="243"/>
+		<item key="DIALOG_Y_ORIGIN" value="387"/>
+	</section>
+</section>

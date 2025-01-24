@@ -1,0 +1,5 @@
+package ramda.anonymous.basic;
+
+public interface Say01 {
+
+}

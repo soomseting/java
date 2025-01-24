@@ -1,0 +1,40 @@
+package collection.list;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArrayListEx {
+
+	public static void main(String[] args) {
+		
+		//ArrayList<String> list = new ArrayList<>();
+		List<String> list = new ArrayList<>();
+		
+		
+		//list에 추가
+		list.add("java");
+		list.add("database");
+		list.add("html");
+		list.add("git");
+		list.add("java");
+		
+		//list를 문자열로 한눈에 확인
+		System.out.println( list.toString() );
+		
+		//list의 크기 확인
+		System.out.println("리스트 크기:" + list.size() );
+		
+		//list의 중간에 값을 추가
+		list.add(2, "css"); //2번째 인덱스, css추가
+		System.out.println( list.toString());
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

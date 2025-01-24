@@ -1,0 +1,52 @@
+package collection.list;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArrayListEx {
+
+	public static void main(String[] args) {
+		
+		//ArrayList<String> list = new ArrayList<>();
+		List<String> list = new ArrayList<>();
+		
+		
+		//list에 추가
+		list.add("java");
+		list.add("database");
+		list.add("html");
+		list.add("git");
+		list.add("java");
+		
+		//list를 문자열로 한 눈에 확인
+		System.out.println( list.toString() );
+		
+		//list의 크기 확인
+		System.out.println("리스트 크기:" + list.size() );
+		
+		//list의 중간에 값을 추가
+		list.add(2, "css"); //2번째 인덱스, css추가
+		System.out.println( list.toString());
+		
+		//list에서 값을 얻기
+		String element = list.get(3);
+		System.out.println("3번째 인덱스의 값 : "+element);
+		
+		//list에 값이 포함되어 있는지 확인하기
+		if(list.contains("database")) {
+			System.out.println("database가 포함되어 있음");
+		}else {
+			System.out.println("database가 없음");
+		}
+		
+		//list에 값 삭제
+		list.remove(0);
+		
+		
+		
+		
+		
+		
+		
+	}
+}

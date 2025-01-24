@@ -1,0 +1,9 @@
+package api.lang.object;
+
+public class Person {
+	public static void main(String[] args) {
+		Person p = new  Person();
+		String s = p.toString();
+		System.out.println(s);
+	}
+}

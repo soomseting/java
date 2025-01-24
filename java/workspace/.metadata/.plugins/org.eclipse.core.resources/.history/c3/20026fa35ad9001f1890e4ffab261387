@@ -1,0 +1,10 @@
+package api.io.readwrite;
+
+import java.util.*;
+import java.io.*;
+
+public class FileReaderEx {
+	public static void main(String[] args) {
+		
+	}
+}

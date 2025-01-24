@@ -1,0 +1,20 @@
+package api.lang.wrapper;
+
+import java.util.Scanner;
+
+public class MainClass {
+	public static void main(String[] args) {
+		/*
+		 * 첫째 줄에 입력의 횟수가 주어지고,
+		 * 둘째 줄에서 입력의 횟수만큼 정수를 다시 입력을 받습니다.
+		 * 
+		 * 5
+		 * 54 32 43 54 75
+		 * 
+		 * nextLine() 받아서, split() 쪼개고, parseInt로 변환해서
+		 * 정수 배열에 저장
+		 */
+		Scanner sc = new Scanner(System.in);
+		for(int i = 0;)
+	}
+}

@@ -1,0 +1,12 @@
+package anonymous.basic;
+
+//인터페이스 선언
+interface Car{
+	void run();
+}
+
+
+
+public class Garbage {
+
+}

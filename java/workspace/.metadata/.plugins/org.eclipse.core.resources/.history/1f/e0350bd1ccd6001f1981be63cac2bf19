@@ -1,0 +1,26 @@
+package day11.exception.throw_;
+
+public class ThrowEx01 {
+	public static void main(String[] args) {
+		
+		/*
+		 * 예외 발생시키기 throw
+		 * 
+		 * 메서드, 생성자 실행도중에 throw키워드를 만나면, 예외가 생성됩니다.
+		 * 
+		 */
+		
+		
+		
+	}
+	
+	public static int calc(int n) {
+		
+		
+		
+		return n;
+		
+	}
+	
+	
+}

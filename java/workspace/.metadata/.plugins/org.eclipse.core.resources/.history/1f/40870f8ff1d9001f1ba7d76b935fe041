@@ -1,0 +1,7 @@
+package api.bufferd;
+
+public class BufferdOutputEx {
+	public static void main(String[] args) {
+		
+	}
+}

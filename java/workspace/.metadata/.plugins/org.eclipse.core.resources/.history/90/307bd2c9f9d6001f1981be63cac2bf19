@@ -1,0 +1,31 @@
+package quiz17;
+
+public class StringQuiz02 {
+	public static void main(String[] args) {
+		/*
+		 * 문자열 거꾸로 뒤집기
+		 * 
+		 * 매개변수로 전달받은 문자열을, 거꾸로 뒤집어서 반환하는 메서드를 생성하세요.
+		 * 
+		 * reverse(String)
+		 * 입력 -> abcde
+		 * 반환 -> edcba
+		 */
+		
+		StringQuiz02 stq2 = new StringQuiz02();
+		stq2.reverse("aaaaa");
+	}
+	
+	
+	public String reverse(String str) {
+		String[] str2 = new String[str.length()];
+		String result = "";
+		for(int i = 0; i <str.length(); i++) {
+			str2[i] += str.charAt(i); 
+		}
+		for(int j = str2.length; j>=0; j--) {
+			result += str2[j];
+		}
+		return result;
+	}
+}

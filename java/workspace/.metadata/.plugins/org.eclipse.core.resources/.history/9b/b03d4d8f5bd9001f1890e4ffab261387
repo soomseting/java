@@ -1,0 +1,10 @@
+package quiz21;
+
+public class FileQuiz01 {
+	public static void main(String[] args) {
+		/*
+		 * 1. Scanner를 이용해서 File명을 입력 받습니다.
+		 * 2. file폴더 하위에 입력받은 파일명으로 파일을 씁니다.
+		 */
+	}
+}

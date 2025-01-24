@@ -1,0 +1,9 @@
+package api.lang.system;
+
+import java.util.Properties;
+
+public class SystemEx {
+	public static void main(String[] args) {
+		Properties properties = System.getProperties();
+	}
+}

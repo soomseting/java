@@ -1,0 +1,23 @@
+package collection.list;
+
+import java.util.Stack;
+
+public class StackEx {
+	public static void main(String[] args) {
+		Stack<Integer> stack = new Stack<>();
+		stack.push(1);
+		stack.push(2);
+		stack.push(3);
+		stack.push(4);
+		
+		//컬렉션을 문자열 형태로 보고 싶으면 toString메서드를 사용합니다.
+		System.out.println(stack.toString());
+		
+		int a = stack.pop(); //값을 제거하면서, 제거한 값을 반환
+		System.out.println(a);
+		System.out.println(a);
+		
+		
+	}
+
+}

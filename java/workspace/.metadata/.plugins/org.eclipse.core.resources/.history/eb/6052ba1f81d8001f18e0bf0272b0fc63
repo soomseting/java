@@ -1,0 +1,7 @@
+package collection.queue;
+
+public class QueueEx {
+	public static void main(String[] args) {
+		
+	}
+}

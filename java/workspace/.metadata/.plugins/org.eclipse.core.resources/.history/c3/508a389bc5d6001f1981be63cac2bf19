@@ -1,0 +1,13 @@
+package day11.exception.throws_;
+
+public class ThrowsEx01 {
+	public static void main(String[] args) {
+
+	}
+
+	private String[] arr = { "hello", "안녕하세요", "사요나라" };
+
+	public static void greeting(int index) {
+
+	}
+}

@@ -1,0 +1,9 @@
+package collection.list;
+
+public class DequeEx {
+	public static void main(String[] args) {
+		
+		//양방향 큐
+		Deque<Integer> queue = new ArrayDeque<>();
+	}
+}

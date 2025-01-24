@@ -1,0 +1,16 @@
+package api.util.arrays;
+
+import java.util.Arrays;
+
+public class ArrayEx {
+	public static void main(String[] args) {
+		//util패키지부터는, import구문이 반드시 들어갑니다.
+		
+		
+		
+		
+		
+		
+		Arrays.binarySearch(arr, 0)
+	}
+}

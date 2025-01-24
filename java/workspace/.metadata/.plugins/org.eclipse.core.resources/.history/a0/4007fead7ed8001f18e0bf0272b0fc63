@@ -1,0 +1,19 @@
+package collection.list;
+
+import java.util.*;
+
+public class LinkedListEx {
+	public static void main(String[] args) {
+		//연결리스트 - ArrayList와 사용방법이 동일함.
+		
+//		LinkedList<String> list = new LinkedList<>();
+		Link<String> list = new LinkedList<>();
+		
+		list.add("홍길동");
+		list.add("홍길자");
+		list.add("홍길동");
+		list.add("이순신");
+		
+		System.out.println(list.toString());
+	}
+}

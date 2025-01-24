@@ -1,0 +1,14 @@
+package api.util.arrays;
+
+import java.util.Arrays;
+
+public class ArrayEx {
+	public static void main(String[] args) {
+		// util패키지부터는, import구문이 반드시 들어갑니다.
+		int[] arr = { 65, 34, 23, 63, 88, 1, 33 };
+
+		Arrays.sort(arr);
+		System.out.println(Arrays.toString(arr));
+		Arrays.binarySearch(arr, 3);
+	}
+}

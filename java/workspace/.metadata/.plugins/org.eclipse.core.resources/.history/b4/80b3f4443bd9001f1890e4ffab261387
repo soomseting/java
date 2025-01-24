@@ -1,0 +1,9 @@
+package collection.map;
+
+public class TreeMapEx {
+	public static void main(String[] args) {
+		
+		//사용방법은 HashMap이랑 같음
+		//키를 -> 정렬시켜서 저장함
+	}
+}

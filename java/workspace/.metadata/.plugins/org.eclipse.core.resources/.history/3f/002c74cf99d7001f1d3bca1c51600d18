@@ -1,0 +1,7 @@
+package api.util.arrays;
+
+public class ArrayEx {
+	public static void main(String[] args) {
+		//util패키지부터는, import구문이 반드시 들어갑니다.
+	}
+}

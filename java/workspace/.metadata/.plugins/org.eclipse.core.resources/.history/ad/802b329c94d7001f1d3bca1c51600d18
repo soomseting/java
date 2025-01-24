@@ -1,0 +1,21 @@
+package api.lang.wrapper;
+
+public class AutoBoxing {
+	public static void main(String[] args) {
+		
+		//AutoBoxing - 기본타입을 자동으로 클래스형으로 변환 (반대도 가능)
+		//기본타입 - 
+		
+		Integer val1 = 1; //String str = "...";
+		Double val2 = 3.14;
+		
+		int a = val;
+		double b = val2;
+		
+		
+		
+		
+		
+		
+	}
+}

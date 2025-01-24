@@ -1,0 +1,5 @@
+package api.lang.math;
+
+public class MathEx {
+
+}

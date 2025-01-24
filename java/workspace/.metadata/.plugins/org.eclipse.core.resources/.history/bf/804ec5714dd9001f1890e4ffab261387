@@ -1,0 +1,10 @@
+package api.io.stream;
+
+import java.io.*;
+import java.util.*;
+
+public class OutputStreamEx {
+	public static void main(String[] args) {
+		FileOutputStream
+	}
+}

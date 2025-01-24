@@ -1,0 +1,7 @@
+package api.io.stream;
+
+public class InputStreamEx {
+	public static void main(String[] args) {
+		
+	}
+}

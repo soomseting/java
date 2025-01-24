@@ -1,0 +1,14 @@
+package collection.list;
+
+import java.util.*;
+
+public class PriorityQueueEx {
+	public static void main(String[] args) {
+
+		Queue<Integer> queue = new PriorityQueue<>();
+		
+		//값 뒤에 추가
+		queue.offer(1);
+
+	}
+}

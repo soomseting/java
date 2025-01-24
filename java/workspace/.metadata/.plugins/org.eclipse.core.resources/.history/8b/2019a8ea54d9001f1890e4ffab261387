@@ -1,0 +1,11 @@
+package api.io.stream;
+
+import java.io.*;
+
+public class FileCopyEx {
+	public static void main(String[] args) {
+		
+		InputStream ifs = null;
+		OutputStream ofs = null;
+	}
+}

@@ -1,0 +1,7 @@
+package api.buffered;
+
+public class BufferedWriterEx {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,25 @@
+package api.lang.string;
+
+public class StringEx {
+	public static void main(String[] args) {
+		String str = new String(new char[] {'h','e','l','l','o'});
+		System.out.println(str);
+		
+		//문자열 자르기 - 인덱스 번호
+		char a =str.charAt(0);
+		System.out.println(a);
+		
+		//문자열 길이
+		System.out.println("문자열 길이: "+str.length());
+		
+		//문자열 찾기
+		System.out.println("문자를 찾은 위치: "+ str.indexOf("l"));
+		System.out.println("문자열을 3번 인덱스부터 찾은 위치: "+str.indexOf("l", 3));
+		System.out.println("문자열을 뒤에서 부터 찾은 위치: "+ str.lastIndexOf("l"));
+		System.out.println("찾는 문자가 없으면: " + str.indexOf("야!"));
+		
+		//문자열 변경
+		String b = "안녕하세요? 문자열은 문자의 합 입니다";
+		b.replace(str, b);//타켓문자, 바꿀문자
+	}
+}

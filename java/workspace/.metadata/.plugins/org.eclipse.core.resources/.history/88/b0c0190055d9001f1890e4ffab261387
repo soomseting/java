@@ -1,0 +1,22 @@
+package api.io.stream;
+
+import java.io.*;
+
+public class FileCopyEx {
+	public static void main(String[] args) {
+		
+		InputStream ifs = null;
+		OutputStream ofs = null;
+		try {
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}finally {
+			try {
+				
+			} catch (Exception e2) {
+				// TODO: handle exception
+			}
+		}
+	}
+}

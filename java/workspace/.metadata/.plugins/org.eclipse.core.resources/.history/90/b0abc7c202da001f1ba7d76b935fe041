@@ -1,0 +1,19 @@
+package api.buffered;
+
+import java.util.*;
+import java.io.*;
+
+public class 빠른입출력 {
+	public static void main(String[] args) {
+		System.out.println(); //출력
+		Scanner sc = new Scanner(System.in); //입력
+		
+		/*
+		 * 빠른 입출력에서는
+		 * InputStreamReader
+		 * OutpurStreamWriter 클래스를 사용합니다.
+		 */
+		
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	}
+}

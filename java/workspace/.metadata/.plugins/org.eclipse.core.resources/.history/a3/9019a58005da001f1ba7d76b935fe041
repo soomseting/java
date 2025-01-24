@@ -1,0 +1,26 @@
+package quiz01;
+
+import java.io.*;
+import java.util.*;
+
+public class Main {
+
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+		int t = Integer.parseInt(br.readLine());
+		int result = 0;
+		for (int i = 0; i < t; i++) {
+			String[] str = new String[t];
+			int a = Integer.parseInt(br.read());
+			int b = (int)br.read();
+			str[i] = a + b;
+			bw.write((int)result);
+		}
+		
+		bw.flush();
+		br.close();
+		bw.close();
+	}
+}

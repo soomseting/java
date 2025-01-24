@@ -1,0 +1,6 @@
+package quiz21;
+
+public class Data {
+//	private
+	private String name
+}

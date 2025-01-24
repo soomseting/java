@@ -1,0 +1,7 @@
+package collection.list;
+
+public class PriorityQueueEx {
+	public static void main(String[] args) {
+		
+	}
+}

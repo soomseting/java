@@ -1,0 +1,17 @@
+package api.buffered;
+
+import java.io.*;
+import java.util.*;
+
+public class BufferedWriterEx {
+	public static void main(String[] args) {
+		
+		/*
+		 * 2바이트 기반에 성능향상 보조 스트림 BufferedWriter
+		 */
+		
+		String path = "C:\\Users\\user\\Desktop\\course\\java\\file\\test02.txt";
+		
+		BufferedWriter bw = new BufferedWriter(new FileWriter(path));
+	}
+}

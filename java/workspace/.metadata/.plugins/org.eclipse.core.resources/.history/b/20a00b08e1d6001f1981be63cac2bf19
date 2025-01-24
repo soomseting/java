@@ -1,0 +1,7 @@
+package api.lang.system;
+
+public class SystemEx {
+	private void name() {
+		
+	}
+}

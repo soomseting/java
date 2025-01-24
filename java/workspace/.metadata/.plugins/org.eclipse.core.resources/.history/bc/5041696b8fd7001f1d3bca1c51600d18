@@ -1,0 +1,13 @@
+package api.lang.math;
+
+public class MathEx {
+	public static void main(String[] args) {
+//		new Math();
+		System.out.println(Math.random()); //랜덤값
+		
+		System.out.println(Math.ceil(3.14));//내림
+
+		System.out.println(Math.ceil(3.14));
+		
+	}
+}

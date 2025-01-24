@@ -1,0 +1,8 @@
+package ramda.anonymous.basic;
+
+public class Person {
+	public void greeting(Say01 say) {
+		
+	}
+
+}

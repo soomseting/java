@@ -1,0 +1,55 @@
+package quiz21;
+
+public class Data<T> {
+//	private
+	private T name;
+	private T age;
+	private T email;
+	private T adress;
+
+	Data() {
+
+	}
+
+	Data(T name, T age, T email, T adress) {
+		this.name = name;
+		this.age = age;
+		this.email = email;
+		this.adress = adress;
+	}
+
+	public T getName() {
+		return name;
+	}
+
+	public void setName(T name) {
+		this.name = name;
+	}
+
+	public T getAge() {
+		return age;
+	}
+
+	public void setAge(T age) {
+		this.age = age;
+	}
+
+	public T getEmail() {
+		return email;
+	}
+
+	public void setEmail(T email) {
+		this.email = email;
+	}
+
+	public T getAdress() {
+		return adress;
+	}
+
+	public void setAdress(T adress) {
+		this.adress = adress;
+	}
+
+	
+
+}

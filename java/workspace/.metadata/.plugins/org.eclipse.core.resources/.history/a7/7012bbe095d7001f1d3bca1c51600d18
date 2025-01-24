@@ -1,0 +1,10 @@
+package api.lang.wrapper;
+
+public class MainClass {
+	public static void main(String[] args) {
+		/*
+		 * 첫째 줄에 입력의 횟수가 주어지고,
+		 * 둘째 줄에서 입력의 횟수만큼 다시 입력을 받습니다.
+		 */
+	}
+}

@@ -1,0 +1,16 @@
+package api.lang.object;
+
+public class Person {
+	public static void main(String[] args) {
+		
+		/*
+		 * 오브젝트 클래스
+		 * stString - 객체의 주소를 문자열로 반환
+		 */
+		
+		
+		Person p = new  Person();
+		String s = p.toString();
+		System.out.println(s);
+	}
+}

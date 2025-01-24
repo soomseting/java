@@ -1,0 +1,10 @@
+package api.bufferd;
+
+import java.util.*;
+import java.io.*;
+
+public class BufferdOutputEx {
+	public static void main(String[] args) {
+		
+	}
+}
