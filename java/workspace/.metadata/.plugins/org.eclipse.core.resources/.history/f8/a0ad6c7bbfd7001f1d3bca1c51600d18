@@ -1,5 +1,0 @@
-package generic.good;
-
-public class Person<T> {//클래스 or 인터페이스에 <타입> 제네릭
-
-}

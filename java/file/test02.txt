@@ -1,4 +1,2 @@
-new
-file
-not write
-true
+hey
+i have to go

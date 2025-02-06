@@ -1,7 +1,0 @@
-package api.io.stream;
-
-public class FileCopyEx {
-	public static void main(String[] args) {
-		
-	}
-}

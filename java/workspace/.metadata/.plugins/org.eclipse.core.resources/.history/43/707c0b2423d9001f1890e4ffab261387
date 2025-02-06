@@ -1,9 +1,0 @@
-package collection.set;
-
-import java.util.*;
-
-public class TreeSetEx {
-	public static void main(String[] args) {
-		//중복 x, 자동으로 오름차순 정렬
-	}
-}

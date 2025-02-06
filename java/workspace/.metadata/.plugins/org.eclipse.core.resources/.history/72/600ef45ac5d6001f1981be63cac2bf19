@@ -1,7 +1,0 @@
-package day11.exception.throws_;
-
-public class ThrowsEx01 {
-	public static void main(String[] args) {
-		
-	}
-}

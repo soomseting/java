@@ -1,7 +1,0 @@
-package day11.exception.throws_;
-
-public class ThrowsEx02 {
-	public ThrowsEx02() {
-		
-	}
-}

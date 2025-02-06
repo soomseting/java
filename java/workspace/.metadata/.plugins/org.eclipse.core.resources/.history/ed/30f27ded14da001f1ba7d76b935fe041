@@ -1,9 +1,0 @@
-package quiz21;
-
-public class Data {
-//	private
-	private String name;
-	private int age;
-	private String email;
-	private String address;
-}

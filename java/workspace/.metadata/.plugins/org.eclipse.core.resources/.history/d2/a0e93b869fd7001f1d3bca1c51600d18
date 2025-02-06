@@ -1,9 +1,0 @@
-package api.util.date;
-
-public class LocalDateEx {
-	public static void main(String[] args) {
-		/*
-		 * 
-		 */
-	}
-}

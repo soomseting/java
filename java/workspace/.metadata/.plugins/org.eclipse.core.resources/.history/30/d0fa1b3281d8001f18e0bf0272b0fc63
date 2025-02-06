@@ -1,9 +1,0 @@
-package collection.queue;
-
-public class QueueEx {
-	public static void main(String[] args) {
-		
-		//자바에서 기본큐는 LinkedList를 이용해서 사용합니다.
-		//LinkedList를 Queue인터페이스 저장하면, 큐 처럼 동작합니다.
-	}
-}

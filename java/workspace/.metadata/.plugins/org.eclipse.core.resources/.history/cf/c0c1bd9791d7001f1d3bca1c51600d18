@@ -1,7 +1,0 @@
-package api.lang.wrapper;
-
-public class Boxing {
-	public static void main(String[] args) {
-		
-	}
-}

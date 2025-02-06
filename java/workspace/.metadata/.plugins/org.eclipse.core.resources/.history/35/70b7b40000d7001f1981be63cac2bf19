@@ -1,9 +1,0 @@
-package api.lang.strbuilder;
-
-public class StringBuilderEx2 {
-	public static void main(String[] args) {
-		
-		//스트링과 스트링 빌더의 시간차이
-		
-	}
-}

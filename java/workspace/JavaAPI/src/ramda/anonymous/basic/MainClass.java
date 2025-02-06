@@ -45,5 +45,6 @@ public class MainClass {
 
 		// 람다식
 		p.greeting((String word, int i) -> word + i);
+		p.greeting((word, i) -> word + i);
 	}
 }

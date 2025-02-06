@@ -1,8 +1,0 @@
-package api.util.token;
-
-public class TokenEx01 {
-	public static void main(String[] args) {
-		
-		//StringTokenizer클래스 - 특정 문자를 기준으로 잘라서 사용(split과 유사)
-	}
-}

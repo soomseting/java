@@ -1,7 +1,0 @@
-package api.lang.strbuilder;
-
-public class StringBuilderEx2 {
-	public static void main(String[] args) {
-		
-	}
-}

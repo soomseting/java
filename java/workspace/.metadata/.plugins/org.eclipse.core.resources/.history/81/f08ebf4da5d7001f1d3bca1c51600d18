@@ -1,7 +1,0 @@
-package api.util.random;
-
-public class RandomEx {
-	public static void main(String[] args) {
-
-	}
-}
